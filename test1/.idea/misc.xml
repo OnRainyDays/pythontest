@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (test1) (1)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 virtualenv at D:\work\code\pythontest\test1\venv" project-jdk-type="Python SDK" />
+>>>>>>> 4d511f4aa5ec5bd42c05cca670e3f327b4366bce
 </project>
