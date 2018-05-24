@@ -7,7 +7,9 @@ class AnonymousSurvey():
         self.responses =[]
     def show_question(self):
         """显示调查问卷"""
-        print(question)
+        print(self.question)
+
+
 
     def store_response(self,new_response):
         """存储单份调查问卷"""
@@ -15,5 +17,5 @@ class AnonymousSurvey():
     def show_results(self):
         """显示收集到的所有答卷"""
         print("Survey results:")
-        for response in responses:
+        for response in self.responses:
             print('-'+ response)
